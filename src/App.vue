@@ -262,6 +262,9 @@ body {
 }
 
 .link1 {
+  margin-right:auto;
+  margin-left:auto;
+  width: calc(100% - 20px);
   transition-duration: 0.15s;
   transition-timing-function: cubic-bezier(0, 0.2, 0.5, 3);
   transition-delay: 0s;
@@ -301,9 +304,7 @@ body {
   padding-left: 66px;
   padding-right: 66px;
   min-height: 64px;
-  margin-top: 20px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-top: 15px;
   border-top-style: none;
   border-right-style: none;
   border-bottom-style: none;
@@ -322,7 +323,6 @@ body {
   justify-content: center;
   height: auto;
   position: relative;
-  width: 100%;
   appearance: none;
   box-sizing: border-box;
   vertical-align: middle;
