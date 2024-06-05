@@ -302,6 +302,8 @@ body {
   padding-right: 66px;
   min-height: 64px;
   margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
   border-top-style: none;
   border-right-style: none;
   border-bottom-style: none;
