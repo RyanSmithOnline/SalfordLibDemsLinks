@@ -65,6 +65,7 @@ export default {
 body {
   background-color: #2A3235;
   font-family: Inter, sans-serif;
+  margin-bottom: 40px;
 }
 
 .link1:hover {
