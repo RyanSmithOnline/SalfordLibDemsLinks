@@ -303,7 +303,7 @@ body {
   word-break: break-word;
   padding-left: 66px;
   padding-right: 66px;
-  min-height: 64px;
+  min-height: 55px;
   margin-top: 15px;
   border-top-style: none;
   border-right-style: none;
