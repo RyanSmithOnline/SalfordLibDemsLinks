@@ -242,7 +242,7 @@ body {
   object-fit: contain;
   object-position: initial;
   filter: none;
-  margin-top: 72px;
+  margin-top: 40px;
   margin-right: auto;
   margin-left: auto;
 }
