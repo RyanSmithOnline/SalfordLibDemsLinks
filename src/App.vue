@@ -3,13 +3,51 @@
     <img class="logo" src="./assets/logo.webp" alt="" />
     <h1 class="tag">Salford Liberal Democrats</h1>
     <div class="max580">
-      <h3 class="GI">Get involved</h3>
-      <a href="https://libdems.my.salesforce-sites.com/LiberalDemocrats/NewMemberLocal" target="_blank" class="link1" height="auto">
-      <div class="">
-        <div class=""></div>
-        <p class="">Join the Liberal Democrats</p>
-      </div>
-    </a>
+      <h4 class="GI">Get involved</h4>
+      <a href="https://www.facebook.com/SalfordLiberalDemocrats" target="_blank" class="link1" height="auto">
+        <div class="">
+          <div class="logo4"></div>
+          <p class="">Facebook</p>
+        </div>
+      </a>
+      <a href="https://x.com/salfordlibdems" target="_blank" class="link1" height="auto">
+        <div class="">
+          <div class="logo4"></div>
+          <p class="">Twitter</p>
+        </div>
+      </a>
+      <a href="https://www.salfordlibdems.uk" target="_blank" class="link1" height="auto">
+        <div class="">
+          <div class="logo2"></div>
+          <p class="">Our Website</p>
+        </div>
+      </a>
+      <a href="https://www.facebook.com/groups/1406669859992678" target="_blank" class="link1" height="auto">
+        <div class="">
+          <div class="logo6"></div>
+          <p class="">Facebook - CleanUp Salford Quays</p>
+        </div>
+      </a>
+      <a href="https://libdems.my.salesforce-sites.com/DonationPage/donation/2221-donate" target="_blank" class="link1"
+        height="auto">
+        <div class="">
+          <div class="logo1"></div>
+          <p class="">Donate</p>
+        </div>
+      </a>
+      <a href="https://libdems.my.salesforce-sites.com/LiberalDemocrats/NewMemberLocal" target="_blank" class="link1"
+        height="auto">
+        <div class="">
+          <div class="logo3"></div>
+          <p class="">Join the Liberal Democrats</p>
+        </div>
+      </a>
+      <a href="https://www.salfordlibdems.uk/campaigns" target="_blank" class="link1" height="auto">
+        <div class="">
+          <div class="logo6"></div>
+          <p class="">Our Campaigns</p>
+        </div>
+      </a>
     </div>
   </div>
 </template>
@@ -27,16 +65,159 @@ body {
   font-family: Inter, sans-serif;
 }
 
-.max580{
+.link1:hover {
+  transform: scale(1.02);
+}
+
+.logo1 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: currentcolor;
+  mask-image: url("/currency-pound.svg");
+  mask-size: 100%;
+  left: 8px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.logo2 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: currentcolor;
+  mask-image: url("/id.svg");
+  mask-size: 100%;
+  left: 8px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.logo3 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: currentcolor;
+  mask-image: url("/license.svg");
+  mask-size: 100%;
+  left: 8px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.logo4 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: currentcolor;
+  mask-image: url("/user.svg");
+  mask-size: 100%;
+  left: 8px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.logo5 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: currentcolor;
+  mask-image: url("/wave-triangle.svg");
+  mask-size: 100%;
+  left: 8px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.logo6 {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: currentcolor;
+  mask-image: url("/zodiac-aquarius.svg");
+  mask-size: 100%;
+  left: 8px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  width: 48px;
+  height: 48px;
+}
+
+.max580 {
   max-width: 580px;
   margin-right: auto;
   margin-left: auto;
 }
 
-.GI{
+.GI {
   font-family: Inter, sans-serif;
   text-align: center;
   color: rgb(255, 255, 255);
+  margin-top:50px;
 }
 
 .logo {
@@ -71,6 +252,11 @@ body {
 }
 
 .link1 {
+  transition-duration: 0.15s;
+  transition-timing-function: cubic-bezier(0, 0.2, 0.5, 3);
+  transition-delay: 0s;
+  transition-behavior: normal;
+  transition-property: transform;
   font-family: Inter, sans-serif;
   hyphens: auto;
   white-space-collapse: collapse;
@@ -105,7 +291,7 @@ body {
   padding-left: 66px;
   padding-right: 66px;
   min-height: 64px;
-  margin-top: 0px;
+  margin-top: 20px;
   border-top-style: none;
   border-right-style: none;
   border-bottom-style: none;
@@ -124,10 +310,6 @@ body {
   justify-content: center;
   height: auto;
   position: relative;
-  padding-top: 16px;
-  padding-bottom: 16px;
-  padding-left: 20px;
-  padding-right: 20px;
   width: 100%;
   appearance: none;
   box-sizing: border-box;
