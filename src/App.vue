@@ -2,8 +2,8 @@
   <div>
     <img class="logo" src="./assets/logo.webp" alt="" />
     <h1 class="tag">Salford Liberal Democrats</h1>
-    <h5 class="GI2">Promoted by the Salford Lib Dems, Unit 2, 07 Boat Shed, 16 Exchange Quay, Salford M5 3EQ</h5>
-
+    <h5 class="GI2" style="margin-bottom: 5px;">Promoted by the Salford Lib Dems,</h5>
+    <h5 class="GI2">Unit 2, 07 Boat Shed, 16 Exchange Quay, Salford M5 3EQ</h5>
     <div class="max580">
       <h4 class="GI">Get involved</h4>
       <a href="https://www.facebook.com/SalfordLiberalDemocrats" target="_blank" class="link1" height="auto">
