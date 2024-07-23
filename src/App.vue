@@ -15,7 +15,7 @@
       <a href="https://www.instagram.com/salfordlibdems" target="_blank" class="link1" height="auto">
         <div class="">
           <div class="logo4"></div>
-          <p class="">Facebook</p>
+          <p class="">Instagram</p>
         </div>
       </a>
       <a href="https://x.com/salfordlibdems" target="_blank" class="link1" height="auto">
