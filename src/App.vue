@@ -12,7 +12,7 @@
           <p class="">Facebook</p>
         </div>
       </a>
-      <a href="https://www.instagram.com/salfordlibdems" target="_blank" class="link1" height="auto">
+      <a href="https://www.instagram.com/salfordquayslibdems/" target="_blank" class="link1" height="auto">
         <div class="">
           <div class="logo4"></div>
           <p class="">Instagram</p>
