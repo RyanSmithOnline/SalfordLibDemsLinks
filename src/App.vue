@@ -30,6 +30,12 @@
           <p class="">Our Website</p>
         </div>
       </a>
+      <a href="https://www.gov.uk/apply-postal-vote" target="_blank" class="link1" height="auto">
+        <div class="">
+          <div class="logo2"></div>
+          <p class="">Apply for a Postal Vote</p>
+        </div>
+      </a>
       <a href="https://www.facebook.com/groups/1406669859992678" target="_blank" class="link1" height="auto">
         <div class="">
           <div class="logo6"></div>
