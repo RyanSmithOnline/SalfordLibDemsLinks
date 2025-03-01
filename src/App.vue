@@ -101,7 +101,6 @@ body {
   align-items: center;
   justify-content: center;
   margin: 15px auto 0;
-  width: calc(100% - 20px);
   min-height: 55px;
   padding: 0 66px;
   background-color: #fff;
