@@ -96,13 +96,17 @@ body {
   margin: 0 auto;
 }
 
+.link1 p {
+    margin: 0 56px;
+}
+
 .link1 {
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 15px auto 0;
   min-height: 55px;
-  padding: 0 66px;
+  padding: 0;
   background-color: #fff;
   color: #2A3235;
   border-radius: 14px;
