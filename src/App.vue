@@ -31,6 +31,7 @@ export default {
     return {
       links: [
         { text: "Ordsall Parking Survey", href: "https://digitallibdems.typeform.com/to/CTVGIHnx", logoClass: "logo3" },
+        { text: "Survey", href: "https://digitallibdems.typeform.com/to/IWWgbQIU", logoClass: "logo3" },
         { text: "Facebook", href: "https://www.facebook.com/SalfordLiberalDemocrats", logoClass: "logo4" },
         { text: "Instagram", href: "https://www.instagram.com/salfordquayslibdems/", logoClass: "logo4" },
         { text: "Twitter", href: "https://x.com/salfordlibdems", logoClass: "logo4" },
@@ -148,4 +149,5 @@ body {
 .logo6 { mask-image: url("/zodiac-aquarius.svg"); }
 
 </style>
+
 
