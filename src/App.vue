@@ -30,7 +30,7 @@ export default {
   data() {
     return {
       links: [
-        { text: "Survey", href: "https://digitallibdems.typeform.com/to/IWWgbQIU", logoClass: "logo3" },
+        { text: "Survey", href: "https://digitallibdems.typeform.com/to/CTVGIHnx", logoClass: "logo3" },
         { text: "Facebook", href: "https://www.facebook.com/SalfordLiberalDemocrats", logoClass: "logo4" },
         { text: "Instagram", href: "https://www.instagram.com/salfordquayslibdems/", logoClass: "logo4" },
         { text: "Twitter", href: "https://x.com/salfordlibdems", logoClass: "logo4" },
@@ -146,4 +146,5 @@ body {
 .logo4 { mask-image: url("/user.svg"); }
 .logo5 { mask-image: url("/wave-triangle.svg"); }
 .logo6 { mask-image: url("/zodiac-aquarius.svg"); }
+
 </style>
