@@ -30,6 +30,7 @@ export default {
   data() {
     return {
       links: [
+        { text: "Want to beat Reform UK?", href: "https://digitallibdems.typeform.com/to/RS7O9oHT", logoClass: "logo3" },
         { text: "Ordsall Parking Survey", href: "https://digitallibdems.typeform.com/to/CTVGIHnx", logoClass: "logo3" },
         { text: "Survey", href: "https://digitallibdems.typeform.com/to/IWWgbQIU", logoClass: "logo3" },
         { text: "Facebook", href: "https://www.facebook.com/SalfordLiberalDemocrats", logoClass: "logo4" },
